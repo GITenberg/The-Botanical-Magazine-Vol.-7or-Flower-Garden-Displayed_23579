@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7233
     wikipedia: http://en.wikipedia.org/wiki/William_Curtis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23579#The-Botanical-Magazine-Vol.-7or-Flower-Garden-Displayed
 gutenberg_bookshelf: The Botanical Magazine
 gutenberg_issued: '2007-11-21'
 gutenberg_type: Text
